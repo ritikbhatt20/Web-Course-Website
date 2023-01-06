@@ -1,0 +1,157 @@
+body{
+    background-image: url(sunset.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+}
+.heading{
+    font-size: 25px;
+    margin-left: 30px;
+    margin: 0;
+    padding: 0;
+}
+.nav-item {
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 20px;
+    justify-items: center;
+
+    
+}
+.nav-btn{
+    display: flex;
+    margin: 0;
+    justify-items: space-between;
+    flex-direction: row;
+}
+.btn {
+    background: none;
+    font-size: 20px;
+    border: none;
+    color: rgb(251, 252, 251);
+    font-weight: 500;
+    border-radius: 6px;
+    padding: 11px;
+    font-family: sans-serif;
+    
+}
+#box{
+    margin: 0;
+    padding: 0;
+}
+h3{
+    margin: 8px;
+    font-size: 30px;
+    color: aqua;
+}
+#header {
+    display: flex;
+    padding: 110px 90px;
+    background:none;
+    border-radius:0;
+    margin:0;
+}
+.head-h2{
+    font-size: 50px;
+    margin: 5px;
+    color: aliceblue;
+}
+.head-h1{
+    font-size: 60px;
+    margin: 5px;
+    color: aqua;
+}
+.head-h3{
+   font-size: 48px;
+   margin: 5px;
+   color: aliceblue;
+}
+.head-p1{
+    font-size: 22px;
+    color: aliceblue;
+    padding: 0;
+    margin-top: 45px;
+    margin-left: 2px;
+}
+.btn3{
+    background-color: aliceblue;
+    color: black;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border-radius: 10px;
+}
+.Loginform{
+    background-color: white;
+    padding: 15px;
+}
+.login{
+    display: flex;
+    font-size: 20px;
+    justify-content: center;
+    color: white;
+    margin-top: 0;
+    margin-bottom: 20px;
+    padding: 6px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: black;
+    border-radius: 7px;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.mb-3{
+   padding-top: 10px;
+   padding-bottom: 10px;
+}
+.form-control{
+  font-size: 18px;
+  padding: 5px;
+}
+.web{
+    padding-right: 80px;
+}
+.btn4{
+   font-size: 18px;  
+   margin-top: 10px;
+   padding-left: 90px;
+   padding-right: 90px;
+   padding-top: 5px;
+   padding-bottom: 5px;
+   border-radius: 6px;
+   border: none;
+   color: black;
+   background-color: aqua;
+   font-weight: 500;
+}
+.head-p2{
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    margin: 8px;
+    padding: 0;
+}
+#idp3{
+    font-size: 15px;
+}
+.social{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.fa-solid,
+.fa-brands {
+    font-size: 40px;
+    
+}
+.btn5{
+    color: aqua;
+}
