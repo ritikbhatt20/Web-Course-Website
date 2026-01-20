@@ -3,7 +3,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0;
-}
+}   
 #navbar {
     display: flex;
     justify-content: space-between;
